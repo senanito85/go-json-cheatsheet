@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Buddy",
+        "age": 3,
+        "owner": "Alice",
+        "color": "Brown",
+        "locationCity": "New York",
+        "id": 100001
+    },
+    {
+        "name": "Max",
+        "age": 5,
+        "owner": "Bob",
+        "color": "Black",
+        "locationCity": "Los Angeles",
+        "id": 100002
+    },
+    {
+        "name": "Charlie",
+        "age": 2,
+        "owner": "Catherine",
+        "color": "White",
+        "locationCity": "Chicago",
+        "id": 100003
+    },
+    {
+        "name": "Lucy",
+        "age": 4,
+        "owner": "David",
+        "color": "Golden",
+        "locationCity": "San Francisco",
+        "id": 100004
+    },
+    {
+        "name": "Rocky",
+        "age": 6,
+        "owner": "Emily",
+        "color": "Gray",
+        "locationCity": "Seattle",
+        "id": 100005
+    }
+]
